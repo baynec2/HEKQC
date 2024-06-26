@@ -1,0 +1,8 @@
+/hek.db
+/manifest
+/.Rhistory
+/results/
+/test_analysis/
+/old_raw_files/*
+/input_raw_files/
+/*.fasta*
